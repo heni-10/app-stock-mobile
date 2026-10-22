@@ -1,0 +1,6 @@
+{
+  "name": "SmartStock",
+  "description": "Smart clothing inventory and sales management mobile app for tracking stock variants, sales, revenue, and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
